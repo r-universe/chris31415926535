@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "storywranglr"]
+	path = storywranglr
+	url = https://github.com/chris31415926535/storywranglr
+	shallow = true
+	registered = true
+[submodule "valhallr"]
+	path = valhallr
+	url = https://github.com/chris31415926535/valhallr
+	shallow = true
+	registered = true

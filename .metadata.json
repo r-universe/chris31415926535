@@ -1,0 +1,10 @@
+[
+  {
+    "package": "storywranglr",
+    "oncran": true
+  },
+  {
+    "package": "valhallr",
+    "oncran": true
+  }
+]
