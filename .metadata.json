@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "tardis",
+    "oncran": true
+  },
+  {
     "package": "valhallr",
     "oncran": true
   }

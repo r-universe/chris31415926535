@@ -8,6 +8,11 @@
 	url = https://github.com/chris31415926535/storywranglr
 	shallow = true
 	registered = true
+[submodule "tardis"]
+	path = tardis
+	url = https://github.com/chris31415926535/tardis
+	shallow = true
+	registered = true
 [submodule "valhallr"]
 	path = valhallr
 	url = https://github.com/chris31415926535/valhallr
