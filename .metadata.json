@@ -10,5 +10,9 @@
   {
     "package": "valhallr",
     "oncran": true
+  },
+  {
+    "package": "walkscore",
+    "oncran": true
   }
 ]

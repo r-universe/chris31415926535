@@ -18,3 +18,8 @@
 	url = https://github.com/chris31415926535/valhallr
 	shallow = true
 	registered = true
+[submodule "walkscore"]
+	path = walkscore
+	url = https://github.com/chris31415926535/walkscore
+	shallow = true
+	registered = true
