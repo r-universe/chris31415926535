@@ -1,10 +1,10 @@
 [
   {
-    "package": "storywranglr",
+    "package": "walkscore",
     "oncran": true
   },
   {
-    "package": "tardis",
+    "package": "storywranglr",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "walkscore",
+    "package": "tardis",
     "oncran": true
   }
 ]
